@@ -1,0 +1,1 @@
+View Shop<?php /**PATH D:\ProjectWork\CarProject\resources\views/Shop/viewpendingshop.blade.php ENDPATH**/ ?>
